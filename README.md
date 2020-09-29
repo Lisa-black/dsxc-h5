@@ -3,7 +3,7 @@
 
 ```bash
 // 克隆项目
-git clone https://github.com/sunniejs/vue-wechat-auth.git
+git clone https://github.com/Lisa-black/dsxc-h5.git
 
 // 进入目录
 cd vue-wechat-auth
